@@ -47,8 +47,7 @@ CREATE TABLE IF NOT EXISTS ratings (
   INDEX idx_user (user_id)
 );
 
--- Seed: Default Admin User
--- Password: Admin@123 (bcrypt hashed)
+
 INSERT INTO users (name, email, password, address, role) VALUES
 (
   'System Administrator',

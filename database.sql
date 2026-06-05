@@ -58,5 +58,4 @@ INSERT INTO users (name, email, password, address, role) VALUES
   'admin'
 ) ON DUPLICATE KEY UPDATE id=id;
 
--- Note: Default admin password is 'Admin@123'
--- CHANGE THIS IMMEDIATELY in production!
+

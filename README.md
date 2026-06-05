@@ -137,6 +137,24 @@ store-rating-platform/
 - Input validation on both client and server
 - Cannot delete own admin account
 
+
+## Screenshots
+
+### Login Page
+<img width="1492" height="798" alt="image" src="https://github.com/user-attachments/assets/6c8d2234-f405-4fed-9d03-0920458a00f7" />
+
+### Admin Dashboard
+<img width="1905" height="914" alt="image" src="https://github.com/user-attachments/assets/7d863a90-90f6-4473-810b-b350d5c22c3b" />
+
+### User Store Listing
+<img width="1904" height="914" alt="image" src="https://github.com/user-attachments/assets/76fa8583-8b07-4828-99e2-88338b4496d9" />
+<img width="1908" height="911" alt="image" src="https://github.com/user-attachments/assets/a067c6e3-2a98-43e5-8f72-ca5646524216" />
+
+### Store Owner Dashboard
+<img width="1905" height="905" alt="image" src="https://github.com/user-attachments/assets/43615637-fd4e-48a8-9890-952e5ad072d0" />
+<img width="1908" height="907" alt="image" src="https://github.com/user-attachments/assets/1ce7a38a-95fe-478b-b100-5b428da1c666" />
+
+
 ## Author
 
 Pranjal Patil

@@ -154,6 +154,9 @@ store-rating-platform/
 <img width="1905" height="905" alt="image" src="https://github.com/user-attachments/assets/43615637-fd4e-48a8-9890-952e5ad072d0" />
 <img width="1908" height="907" alt="image" src="https://github.com/user-attachments/assets/1ce7a38a-95fe-478b-b100-5b428da1c666" />
 
+### User Dashboard 
+<img width="1900" height="910" alt="image" src="https://github.com/user-attachments/assets/e10b4b87-4ea4-47f6-b56c-bc4818fe2099" />
+
 
 ## Author
 

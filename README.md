@@ -100,6 +100,8 @@ npm start
 - **Rating**: Integer 1–5
 
 ## Project Structure
+
+```text
 store-rating-platform/
 ├── backend/
 │   ├── src/
@@ -124,6 +126,8 @@ store-rating-platform/
 ├── database.sql                  # Schema + seed data
 ├── README.md
 └── .gitignore
+```
+
 
 ## Security Features
 - Passwords hashed with bcrypt (salt rounds: 10)
